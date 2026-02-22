@@ -17,7 +17,7 @@ class student{
    
 int main(){
     
-    student s1("tony stark");
+    student s1("petter parker");
 
     return 0;
     
